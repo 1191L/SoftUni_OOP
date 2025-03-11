@@ -1,0 +1,14 @@
+D:\SoftUni\GitHub\Inheritance\1\1\CustomRandomList\bin\Debug\net6.0\CustomRandomList.exe
+D:\SoftUni\GitHub\Inheritance\1\1\CustomRandomList\bin\Debug\net6.0\CustomRandomList.deps.json
+D:\SoftUni\GitHub\Inheritance\1\1\CustomRandomList\bin\Debug\net6.0\CustomRandomList.runtimeconfig.json
+D:\SoftUni\GitHub\Inheritance\1\1\CustomRandomList\bin\Debug\net6.0\CustomRandomList.dll
+D:\SoftUni\GitHub\Inheritance\1\1\CustomRandomList\bin\Debug\net6.0\CustomRandomList.pdb
+D:\SoftUni\GitHub\Inheritance\1\1\CustomRandomList\obj\Debug\net6.0\CustomRandomList.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\GitHub\Inheritance\1\1\CustomRandomList\obj\Debug\net6.0\CustomRandomList.AssemblyInfoInputs.cache
+D:\SoftUni\GitHub\Inheritance\1\1\CustomRandomList\obj\Debug\net6.0\CustomRandomList.AssemblyInfo.cs
+D:\SoftUni\GitHub\Inheritance\1\1\CustomRandomList\obj\Debug\net6.0\CustomRandomList.csproj.CoreCompileInputs.cache
+D:\SoftUni\GitHub\Inheritance\1\1\CustomRandomList\obj\Debug\net6.0\CustomRandomList.dll
+D:\SoftUni\GitHub\Inheritance\1\1\CustomRandomList\obj\Debug\net6.0\refint\CustomRandomList.dll
+D:\SoftUni\GitHub\Inheritance\1\1\CustomRandomList\obj\Debug\net6.0\CustomRandomList.pdb
+D:\SoftUni\GitHub\Inheritance\1\1\CustomRandomList\obj\Debug\net6.0\CustomRandomList.genruntimeconfig.cache
+D:\SoftUni\GitHub\Inheritance\1\1\CustomRandomList\obj\Debug\net6.0\ref\CustomRandomList.dll
