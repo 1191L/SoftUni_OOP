@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operations", "Operations\Operations.csproj", "{FB418462-F3E2-4790-951D-F035353D905B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animals", "Animals\Animals.csproj", "{53FF56CD-0264-4A34-B222-6AAE0E50D0DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes", "Shapes\Shapes.csproj", "{B7B13995-44A6-45C6-9004-29404081DE90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB418462-F3E2-4790-951D-F035353D905B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB418462-F3E2-4790-951D-F035353D905B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB418462-F3E2-4790-951D-F035353D905B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB418462-F3E2-4790-951D-F035353D905B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53FF56CD-0264-4A34-B222-6AAE0E50D0DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53FF56CD-0264-4A34-B222-6AAE0E50D0DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53FF56CD-0264-4A34-B222-6AAE0E50D0DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53FF56CD-0264-4A34-B222-6AAE0E50D0DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7B13995-44A6-45C6-9004-29404081DE90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7B13995-44A6-45C6-9004-29404081DE90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7B13995-44A6-45C6-9004-29404081DE90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7B13995-44A6-45C6-9004-29404081DE90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82EF5D8E-0CFE-49D3-A764-C5AF6493A6A9}
+	EndGlobalSection
+EndGlobal

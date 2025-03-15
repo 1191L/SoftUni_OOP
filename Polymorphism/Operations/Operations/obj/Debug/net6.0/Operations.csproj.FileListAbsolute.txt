@@ -1,0 +1,14 @@
+D:\SoftUni\GitHub\Polymorphism\Operations\Operations\bin\Debug\net6.0\Operations.exe
+D:\SoftUni\GitHub\Polymorphism\Operations\Operations\bin\Debug\net6.0\Operations.deps.json
+D:\SoftUni\GitHub\Polymorphism\Operations\Operations\bin\Debug\net6.0\Operations.runtimeconfig.json
+D:\SoftUni\GitHub\Polymorphism\Operations\Operations\bin\Debug\net6.0\Operations.dll
+D:\SoftUni\GitHub\Polymorphism\Operations\Operations\bin\Debug\net6.0\Operations.pdb
+D:\SoftUni\GitHub\Polymorphism\Operations\Operations\obj\Debug\net6.0\Operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\GitHub\Polymorphism\Operations\Operations\obj\Debug\net6.0\Operations.AssemblyInfoInputs.cache
+D:\SoftUni\GitHub\Polymorphism\Operations\Operations\obj\Debug\net6.0\Operations.AssemblyInfo.cs
+D:\SoftUni\GitHub\Polymorphism\Operations\Operations\obj\Debug\net6.0\Operations.csproj.CoreCompileInputs.cache
+D:\SoftUni\GitHub\Polymorphism\Operations\Operations\obj\Debug\net6.0\Operations.dll
+D:\SoftUni\GitHub\Polymorphism\Operations\Operations\obj\Debug\net6.0\refint\Operations.dll
+D:\SoftUni\GitHub\Polymorphism\Operations\Operations\obj\Debug\net6.0\Operations.pdb
+D:\SoftUni\GitHub\Polymorphism\Operations\Operations\obj\Debug\net6.0\Operations.genruntimeconfig.cache
+D:\SoftUni\GitHub\Polymorphism\Operations\Operations\obj\Debug\net6.0\ref\Operations.dll

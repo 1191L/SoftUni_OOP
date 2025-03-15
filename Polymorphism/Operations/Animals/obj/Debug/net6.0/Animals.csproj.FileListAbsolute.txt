@@ -1,0 +1,14 @@
+D:\SoftUni\GitHub\Polymorphism\Operations\Animals\bin\Debug\net6.0\Animals.exe
+D:\SoftUni\GitHub\Polymorphism\Operations\Animals\bin\Debug\net6.0\Animals.deps.json
+D:\SoftUni\GitHub\Polymorphism\Operations\Animals\bin\Debug\net6.0\Animals.runtimeconfig.json
+D:\SoftUni\GitHub\Polymorphism\Operations\Animals\bin\Debug\net6.0\Animals.dll
+D:\SoftUni\GitHub\Polymorphism\Operations\Animals\bin\Debug\net6.0\Animals.pdb
+D:\SoftUni\GitHub\Polymorphism\Operations\Animals\obj\Debug\net6.0\Animals.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\GitHub\Polymorphism\Operations\Animals\obj\Debug\net6.0\Animals.AssemblyInfoInputs.cache
+D:\SoftUni\GitHub\Polymorphism\Operations\Animals\obj\Debug\net6.0\Animals.AssemblyInfo.cs
+D:\SoftUni\GitHub\Polymorphism\Operations\Animals\obj\Debug\net6.0\Animals.csproj.CoreCompileInputs.cache
+D:\SoftUni\GitHub\Polymorphism\Operations\Animals\obj\Debug\net6.0\Animals.dll
+D:\SoftUni\GitHub\Polymorphism\Operations\Animals\obj\Debug\net6.0\refint\Animals.dll
+D:\SoftUni\GitHub\Polymorphism\Operations\Animals\obj\Debug\net6.0\Animals.pdb
+D:\SoftUni\GitHub\Polymorphism\Operations\Animals\obj\Debug\net6.0\Animals.genruntimeconfig.cache
+D:\SoftUni\GitHub\Polymorphism\Operations\Animals\obj\Debug\net6.0\ref\Animals.dll
